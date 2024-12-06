@@ -1,4 +1,4 @@
-# AI-Powered-Sophisticate-chatbot-for-Instagram
+# AI-Powered-Sophisticated-chatbot-for-Instagram
  create a sophisticated AI chatbot for our Instagram account, aimed at enhancing sales interactions with customers. The ideal candidate should have experience in chatbot development, particularly within social media platforms. Your task will involve designing a chatbot that can engage users, answer queries, and facilitate transactions seamlessly. Strong knowledge of AI technologies and Instagram API is essential. If you have a passion for creating innovative solutions that drive sales, we would love to hear from you!
 
 **Relevant Skills:**
